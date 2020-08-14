@@ -22,6 +22,7 @@ func main() {
 
 }
 
+//Функция поиска ссылок в теле HTML страницы, на вход URL от куда брать ссылки, на выходе массив ссылок с этой страницы
 func findLinks(url string) ([]string, error) {
 	resp, err := http.Get(url)
 	if err != nil {
