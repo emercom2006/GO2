@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb0187fe-1c22-43c3-af28-f212399d6c32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/les5/blog/conf/app.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/controllers/blogPosts.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/models/blogPosts.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/routers/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/static/js/reload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/tests/default_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/views/index.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/blog/views/post.tpl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.14rc1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g5OsID3xcJABX4wIljdkxRQaTF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO2" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/les2/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO2" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/les3/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO2" />
+      <working_directory value="$PROJECT_DIR$/les5/blog" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/les5/blog/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO2" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/les1/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0187fe-1c22-43c3-af28-f212399d6c32" name="Default Changelist" comment="" />
+      <created>1597401192353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597401192353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Go_Modules_(vgo)" timestamp="1598390447532">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Go_Modules_(vgo)/0.0.1440.900@0.0.1440.900" timestamp="1598390447532" />
+    <state x="320" y="115" key="#Inspections" timestamp="1598300309030">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1598300309030" />
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598452532873">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1598452532873" />
+    <state x="429" y="92" key="#go_build_main.go_(2)" timestamp="1598301479626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="92" key="#go_build_main.go_(2)/0.0.1440.900@0.0.1440.900" timestamp="1598301479626" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1598633960082">
+      <screen x="0" y="22" width="1440" height="828" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598633342250" />
+    <state width="1358" height="206" key="GridCell.Tab.0.bottom/0.22.1440.826@0.22.1440.826" timestamp="1597695931143" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.22.1440.828@0.22.1440.828" timestamp="1598633960082" />
+    <state width="1358" height="206" key="GridCell.Tab.0.bottom/0.22.1440.829@0.22.1440.829" timestamp="1597696640636" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1598633960080">
+      <screen x="0" y="22" width="1440" height="828" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598633342245" />
+    <state width="1358" height="206" key="GridCell.Tab.0.center/0.22.1440.826@0.22.1440.826" timestamp="1597695931142" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.22.1440.828@0.22.1440.828" timestamp="1598633960080" />
+    <state width="1358" height="206" key="GridCell.Tab.0.center/0.22.1440.829@0.22.1440.829" timestamp="1597696640635" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1598633960080">
+      <screen x="0" y="22" width="1440" height="828" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598633342244" />
+    <state width="1358" height="206" key="GridCell.Tab.0.left/0.22.1440.826@0.22.1440.826" timestamp="1597695931141" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.22.1440.828@0.22.1440.828" timestamp="1598633960080" />
+    <state width="1358" height="206" key="GridCell.Tab.0.left/0.22.1440.829@0.22.1440.829" timestamp="1597696640634" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1598633960081">
+      <screen x="0" y="22" width="1440" height="828" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598633342245" />
+    <state width="1358" height="206" key="GridCell.Tab.0.right/0.22.1440.826@0.22.1440.826" timestamp="1597695931142" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.22.1440.828@0.22.1440.828" timestamp="1598633960081" />
+    <state width="1358" height="206" key="GridCell.Tab.0.right/0.22.1440.829@0.22.1440.829" timestamp="1597696640635" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1598452610627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1598452610627" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598306260685">
+      <screen x="0" y="22" width="1440" height="830" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.22.1440.830@0.22.1440.830" timestamp="1598306260685" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1598306167771">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1598306167771" />
+  </component>
+</project>
