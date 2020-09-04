@@ -16,7 +16,7 @@ type BlogPostsController struct {
 func (c *BlogPostsController) Get() {
 	beeOrm := orm.NewOrm()
 
-	posts := models.Posts{}
+	posts := []models.Posts{}
 
 	_, err := beeOrm.QueryTable("tablename").All(&posts)
 	if err != nil {
@@ -24,7 +24,6 @@ func (c *BlogPostsController) Get() {
 	}
 
 	c.Data["Posts"] = posts
-	c.Data["Title"] = posts.Title
 	c.TplName = "index.tpl"
 }
 

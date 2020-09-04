@@ -12,6 +12,7 @@
 {{range .Posts}}
 <div>
     <a href="/post/{{.Id}}">{{.Title}}</a>
+    <p>{{.Short}}</p>
 </div>
 {{end}}
 </body>
